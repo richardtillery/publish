@@ -1,0 +1,9 @@
+org/tillery/schema/DgsConstants$QUERY.class
+org/tillery/schema/DgsConstants.class
+org/tillery/controller/Thing.class
+org/tillery/controller/PublisherController.class
+org/tillery/schema/DgsConstants$THING.class
+org/tillery/schema/Generated.class
+org/tillery/PublishApp.class
+org/tillery/schema/types/Thing$Builder.class
+org/tillery/schema/types/Thing.class

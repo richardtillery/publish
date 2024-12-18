@@ -1,0 +1,13 @@
+type Query {
+    fetchThings: [Thing]
+}
+
+type Subscription {
+  thingsPublisher: Thing
+}
+
+
+type Thing {
+    name: String
+    description: String
+}
